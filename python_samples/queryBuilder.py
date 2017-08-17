@@ -55,3 +55,12 @@ sample_request = {
 # print queryBuilder(firstName="muhammet", lastName="enginar", age=24, hometown="Konya")
 
 # TO-DO:  handle different keys than expected in request
+
+# another_request = {
+#   'name': 'Muhammet',
+#   'surname': 'Enginar',
+#   'age': 24,
+#   'city': 'Konya',
+#   'mobilePhone': '5054187393'
+# }
+
